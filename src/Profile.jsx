@@ -13,12 +13,7 @@ function Profile() {
           <h1 class="text-4xl lg:text-5xl font-bold text-center lg:text-left">
             Hi, I am Navneet, Frontend devloper
           </h1>
-          <p class="text-center lg:text-left text-lg">
-            Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet
-            sint. Velit ea mega mollit nulla mollit consequat ullamco est sit
-            aliqua dolor do amet sint. Exercitation veniam consequat sunt
-            nostrud amet.
-          </p>
+          <p class="text-center lg:text-left text-lg"></p>
           <button class="bg-red-400 text-white self-center lg:self-start px-4 py-2 rounded text-2xl lg:text-3xl">
             Download Resume
           </button>
